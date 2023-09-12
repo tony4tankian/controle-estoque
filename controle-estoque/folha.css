@@ -1,0 +1,21 @@
+html{
+	margin:0px;
+	padding:px;
+	background-color:#0a0a0a;
+}
+body{
+	background-color:#0a0a0a;
+	color:white;
+ }
+
+strong{
+	color:white;
+ }
+.columns{
+	 background-color:#0a0a0a;
+}
+
+td{
+	margin:3px; 
+}
+ 
